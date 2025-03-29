@@ -1,0 +1,4962 @@
+[
+    {
+        "name": "Restaurant 4320",
+        "zip_code": "75201",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "1"
+    },
+    {
+        "name": "Restaurant 4895",
+        "zip_code": "60601",
+        "cuisine": "Mediterranean",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "2"
+    },
+    {
+        "name": "Restaurant 1320",
+        "zip_code": "75201",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 2.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "3"
+    },
+    {
+        "name": "Restaurant 9555",
+        "zip_code": "75201",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "4"
+    },
+    {
+        "name": "Restaurant 9581",
+        "zip_code": "33130",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "5"
+    },
+    {
+        "name": "Restaurant 1211",
+        "zip_code": "60601",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.6,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "6"
+    },
+    {
+        "name": "Restaurant 1997",
+        "zip_code": "33130",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "7"
+    },
+    {
+        "name": "Restaurant 8225",
+        "zip_code": "60601",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "8"
+    },
+    {
+        "name": "Restaurant 9570",
+        "zip_code": "94105",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "9"
+    },
+    {
+        "name": "Restaurant 9779",
+        "zip_code": "33130",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "10"
+    },
+    {
+        "name": "Restaurant 4491",
+        "zip_code": "75201",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.1,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "11"
+    },
+    {
+        "name": "Restaurant 7437",
+        "zip_code": "94105",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "12"
+    },
+    {
+        "name": "Restaurant 4191",
+        "zip_code": "75201",
+        "cuisine": "Japanese",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 2.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "13"
+    },
+    {
+        "name": "Restaurant 4403",
+        "zip_code": "10001",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.5,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "14"
+    },
+    {
+        "name": "Restaurant 5515",
+        "zip_code": "33130",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.5,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "15"
+    },
+    {
+        "name": "Restaurant 7425",
+        "zip_code": "94105",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "16"
+    },
+    {
+        "name": "Restaurant 7642",
+        "zip_code": "33130",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 2.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "17"
+    },
+    {
+        "name": "Restaurant 4128",
+        "zip_code": "10001",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.1,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "18"
+    },
+    {
+        "name": "Restaurant 7233",
+        "zip_code": "10001",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 5.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "19"
+    },
+    {
+        "name": "Restaurant 1443",
+        "zip_code": "75201",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "20"
+    },
+    {
+        "name": "Restaurant 8744",
+        "zip_code": "10001",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 2.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "21"
+    },
+    {
+        "name": "Restaurant 2351",
+        "zip_code": "33130",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "22"
+    },
+    {
+        "name": "Restaurant 3001",
+        "zip_code": "60601",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "23"
+    },
+    {
+        "name": "Restaurant 8909",
+        "zip_code": "75201",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "24"
+    },
+    {
+        "name": "Restaurant 9507",
+        "zip_code": "60601",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.5,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "25"
+    },
+    {
+        "name": "Restaurant 4364",
+        "zip_code": "75201",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "26"
+    },
+    {
+        "name": "Restaurant 5106",
+        "zip_code": "33130",
+        "cuisine": "Mediterranean",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "27"
+    },
+    {
+        "name": "Restaurant 1508",
+        "zip_code": "33130",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.1,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "28"
+    },
+    {
+        "name": "Restaurant 6630",
+        "zip_code": "10001",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "29"
+    },
+    {
+        "name": "Restaurant 5837",
+        "zip_code": "10001",
+        "cuisine": "Mediterranean",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "30"
+    },
+    {
+        "name": "Restaurant 2396",
+        "zip_code": "60601",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "31"
+    },
+    {
+        "name": "Restaurant 4773",
+        "zip_code": "33130",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "32"
+    },
+    {
+        "name": "Restaurant 7574",
+        "zip_code": "94105",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "33"
+    },
+    {
+        "name": "Restaurant 9917",
+        "zip_code": "33130",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "34"
+    },
+    {
+        "name": "Restaurant 5896",
+        "zip_code": "75201",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "35"
+    },
+    {
+        "name": "Restaurant 2776",
+        "zip_code": "10001",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "36"
+    },
+    {
+        "name": "Restaurant 5348",
+        "zip_code": "60601",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "37"
+    },
+    {
+        "name": "Restaurant 3749",
+        "zip_code": "10001",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "38"
+    },
+    {
+        "name": "Restaurant 9342",
+        "zip_code": "10001",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "39"
+    },
+    {
+        "name": "Restaurant 2308",
+        "zip_code": "75201",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 2.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "40"
+    },
+    {
+        "name": "Restaurant 8344",
+        "zip_code": "75201",
+        "cuisine": "American",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "41"
+    },
+    {
+        "name": "Restaurant 8979",
+        "zip_code": "33130",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "42"
+    },
+    {
+        "name": "Restaurant 2440",
+        "zip_code": "75201",
+        "cuisine": "American",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "43"
+    },
+    {
+        "name": "Restaurant 2516",
+        "zip_code": "10001",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.1,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "44"
+    },
+    {
+        "name": "Restaurant 7739",
+        "zip_code": "75201",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "45"
+    },
+    {
+        "name": "Restaurant 7139",
+        "zip_code": "33130",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "46"
+    },
+    {
+        "name": "Restaurant 4077",
+        "zip_code": "10001",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "47"
+    },
+    {
+        "name": "Restaurant 8134",
+        "zip_code": "10001",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "48"
+    },
+    {
+        "name": "Restaurant 8032",
+        "zip_code": "94105",
+        "cuisine": "Japanese",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.7,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "49"
+    },
+    {
+        "name": "Restaurant 3061",
+        "zip_code": "33130",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "50"
+    },
+    {
+        "name": "Restaurant 9269",
+        "zip_code": "75201",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "51"
+    },
+    {
+        "name": "Restaurant 3394",
+        "zip_code": "10001",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.9,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "52"
+    },
+    {
+        "name": "Restaurant 9640",
+        "zip_code": "75201",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "53"
+    },
+    {
+        "name": "Restaurant 4801",
+        "zip_code": "10001",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 2.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "54"
+    },
+    {
+        "name": "Restaurant 8996",
+        "zip_code": "10001",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "55"
+    },
+    {
+        "name": "Restaurant 4587",
+        "zip_code": "94105",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.1,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "56"
+    },
+    {
+        "name": "Restaurant 7835",
+        "zip_code": "94105",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "57"
+    },
+    {
+        "name": "Restaurant 8954",
+        "zip_code": "94105",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "58"
+    },
+    {
+        "name": "Restaurant 3279",
+        "zip_code": "10001",
+        "cuisine": "American",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.6,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "59"
+    },
+    {
+        "name": "Restaurant 5692",
+        "zip_code": "10001",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.5,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "60"
+    },
+    {
+        "name": "Restaurant 3653",
+        "zip_code": "94105",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 2.9,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "61"
+    },
+    {
+        "name": "Restaurant 3155",
+        "zip_code": "75201",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.2,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "62"
+    },
+    {
+        "name": "Restaurant 2641",
+        "zip_code": "33130",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "63"
+    },
+    {
+        "name": "Restaurant 2965",
+        "zip_code": "33130",
+        "cuisine": "American",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.1,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "64"
+    },
+    {
+        "name": "Restaurant 8473",
+        "zip_code": "33130",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "65"
+    },
+    {
+        "name": "Restaurant 7869",
+        "zip_code": "75201",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 2.5,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "66"
+    },
+    {
+        "name": "Restaurant 2594",
+        "zip_code": "33130",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "67"
+    },
+    {
+        "name": "Restaurant 6936",
+        "zip_code": "94105",
+        "cuisine": "Japanese",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "68"
+    },
+    {
+        "name": "Restaurant 2320",
+        "zip_code": "33130",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.7,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "69"
+    },
+    {
+        "name": "Restaurant 3849",
+        "zip_code": "60601",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "70"
+    },
+    {
+        "name": "Restaurant 9828",
+        "zip_code": "75201",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "71"
+    },
+    {
+        "name": "Restaurant 4925",
+        "zip_code": "10001",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "72"
+    },
+    {
+        "name": "Restaurant 4356",
+        "zip_code": "94105",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "73"
+    },
+    {
+        "name": "Restaurant 5532",
+        "zip_code": "75201",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.0,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "74"
+    },
+    {
+        "name": "Restaurant 4207",
+        "zip_code": "75201",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "75"
+    },
+    {
+        "name": "Restaurant 1553",
+        "zip_code": "33130",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "76"
+    },
+    {
+        "name": "Restaurant 8904",
+        "zip_code": "60601",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "77"
+    },
+    {
+        "name": "Restaurant 5693",
+        "zip_code": "60601",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "78"
+    },
+    {
+        "name": "Restaurant 1120",
+        "zip_code": "94105",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "79"
+    },
+    {
+        "name": "Restaurant 7020",
+        "zip_code": "75201",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "80"
+    },
+    {
+        "name": "Restaurant 3888",
+        "zip_code": "10001",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 2.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "81"
+    },
+    {
+        "name": "Restaurant 2145",
+        "zip_code": "60601",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 5.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "82"
+    },
+    {
+        "name": "Restaurant 1507",
+        "zip_code": "94105",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 2.6,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "83"
+    },
+    {
+        "name": "Restaurant 7589",
+        "zip_code": "33130",
+        "cuisine": "Japanese",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "84"
+    },
+    {
+        "name": "Restaurant 1907",
+        "zip_code": "33130",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "85"
+    },
+    {
+        "name": "Restaurant 5847",
+        "zip_code": "75201",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "86"
+    },
+    {
+        "name": "Restaurant 4569",
+        "zip_code": "10001",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "87"
+    },
+    {
+        "name": "Restaurant 7680",
+        "zip_code": "75201",
+        "cuisine": "American",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "88"
+    },
+    {
+        "name": "Restaurant 6860",
+        "zip_code": "33130",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "89"
+    },
+    {
+        "name": "Restaurant 4074",
+        "zip_code": "60601",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "90"
+    },
+    {
+        "name": "Restaurant 2181",
+        "zip_code": "94105",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 2.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "91"
+    },
+    {
+        "name": "Restaurant 9782",
+        "zip_code": "94105",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "92"
+    },
+    {
+        "name": "Restaurant 6524",
+        "zip_code": "33130",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 2.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "93"
+    },
+    {
+        "name": "Restaurant 9614",
+        "zip_code": "75201",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "94"
+    },
+    {
+        "name": "Restaurant 7068",
+        "zip_code": "10001",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "95"
+    },
+    {
+        "name": "Restaurant 6289",
+        "zip_code": "33130",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.3,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "96"
+    },
+    {
+        "name": "Restaurant 6235",
+        "zip_code": "33130",
+        "cuisine": "American",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.0,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "97"
+    },
+    {
+        "name": "Restaurant 1613",
+        "zip_code": "75201",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "98"
+    },
+    {
+        "name": "Restaurant 4058",
+        "zip_code": "10001",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "99"
+    },
+    {
+        "name": "Restaurant 3111",
+        "zip_code": "10001",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "100"
+    },
+    {
+        "name": "Restaurant 7176",
+        "zip_code": "60601",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "101"
+    },
+    {
+        "name": "Restaurant 2875",
+        "zip_code": "94105",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "102"
+    },
+    {
+        "name": "Restaurant 2548",
+        "zip_code": "60601",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 5.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "103"
+    },
+    {
+        "name": "Restaurant 9395",
+        "zip_code": "94105",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "104"
+    },
+    {
+        "name": "Restaurant 4794",
+        "zip_code": "10001",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "105"
+    },
+    {
+        "name": "Restaurant 6432",
+        "zip_code": "94105",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "106"
+    },
+    {
+        "name": "Restaurant 2016",
+        "zip_code": "94105",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 2.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "107"
+    },
+    {
+        "name": "Restaurant 5350",
+        "zip_code": "75201",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.2,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "108"
+    },
+    {
+        "name": "Restaurant 4632",
+        "zip_code": "75201",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.1,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "109"
+    },
+    {
+        "name": "Restaurant 7143",
+        "zip_code": "33130",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "110"
+    },
+    {
+        "name": "Restaurant 7657",
+        "zip_code": "33130",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "111"
+    },
+    {
+        "name": "Restaurant 5831",
+        "zip_code": "94105",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "112"
+    },
+    {
+        "name": "Restaurant 7496",
+        "zip_code": "94105",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.8,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "113"
+    },
+    {
+        "name": "Restaurant 2895",
+        "zip_code": "94105",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "114"
+    },
+    {
+        "name": "Restaurant 9671",
+        "zip_code": "75201",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 2.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "115"
+    },
+    {
+        "name": "Restaurant 3783",
+        "zip_code": "94105",
+        "cuisine": "American",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "116"
+    },
+    {
+        "name": "Restaurant 7620",
+        "zip_code": "75201",
+        "cuisine": "Japanese",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "117"
+    },
+    {
+        "name": "Restaurant 7964",
+        "zip_code": "10001",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 5.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "118"
+    },
+    {
+        "name": "Restaurant 4015",
+        "zip_code": "94105",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "119"
+    },
+    {
+        "name": "Restaurant 7932",
+        "zip_code": "33130",
+        "cuisine": "Mediterranean",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "120"
+    },
+    {
+        "name": "Restaurant 1239",
+        "zip_code": "33130",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "121"
+    },
+    {
+        "name": "Restaurant 2913",
+        "zip_code": "75201",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "122"
+    },
+    {
+        "name": "Restaurant 1159",
+        "zip_code": "60601",
+        "cuisine": "Mediterranean",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "123"
+    },
+    {
+        "name": "Restaurant 3977",
+        "zip_code": "33130",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "124"
+    },
+    {
+        "name": "Restaurant 6514",
+        "zip_code": "75201",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 2.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "125"
+    },
+    {
+        "name": "Restaurant 1557",
+        "zip_code": "33130",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.9,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "126"
+    },
+    {
+        "name": "Restaurant 1782",
+        "zip_code": "10001",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "127"
+    },
+    {
+        "name": "Restaurant 1436",
+        "zip_code": "33130",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "128"
+    },
+    {
+        "name": "Restaurant 4317",
+        "zip_code": "10001",
+        "cuisine": "American",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 5.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "129"
+    },
+    {
+        "name": "Restaurant 8649",
+        "zip_code": "94105",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "130"
+    },
+    {
+        "name": "Restaurant 9821",
+        "zip_code": "94105",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.9,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "131"
+    },
+    {
+        "name": "Restaurant 8300",
+        "zip_code": "33130",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 2.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "132"
+    },
+    {
+        "name": "Restaurant 8398",
+        "zip_code": "94105",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.1,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "133"
+    },
+    {
+        "name": "Restaurant 6409",
+        "zip_code": "10001",
+        "cuisine": "Japanese",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "134"
+    },
+    {
+        "name": "Restaurant 6551",
+        "zip_code": "75201",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.9,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "135"
+    },
+    {
+        "name": "Restaurant 4067",
+        "zip_code": "10001",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 5.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "136"
+    },
+    {
+        "name": "Restaurant 5048",
+        "zip_code": "33130",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "137"
+    },
+    {
+        "name": "Restaurant 5834",
+        "zip_code": "75201",
+        "cuisine": "Mediterranean",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.2,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "138"
+    },
+    {
+        "name": "Restaurant 5515",
+        "zip_code": "10001",
+        "cuisine": "American",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "139"
+    },
+    {
+        "name": "Restaurant 5667",
+        "zip_code": "94105",
+        "cuisine": "Japanese",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "140"
+    },
+    {
+        "name": "Restaurant 4070",
+        "zip_code": "75201",
+        "cuisine": "Mediterranean",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.3,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "141"
+    },
+    {
+        "name": "Restaurant 9180",
+        "zip_code": "33130",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.4,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "142"
+    },
+    {
+        "name": "Restaurant 6789",
+        "zip_code": "33130",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "143"
+    },
+    {
+        "name": "Restaurant 9325",
+        "zip_code": "94105",
+        "cuisine": "Japanese",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 2.5,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "144"
+    },
+    {
+        "name": "Restaurant 2597",
+        "zip_code": "60601",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "145"
+    },
+    {
+        "name": "Restaurant 9547",
+        "zip_code": "33130",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.9,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "146"
+    },
+    {
+        "name": "Restaurant 1928",
+        "zip_code": "75201",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "147"
+    },
+    {
+        "name": "Restaurant 5716",
+        "zip_code": "75201",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "148"
+    },
+    {
+        "name": "Restaurant 6092",
+        "zip_code": "60601",
+        "cuisine": "American",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "149"
+    },
+    {
+        "name": "Restaurant 1215",
+        "zip_code": "60601",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "150"
+    },
+    {
+        "name": "Restaurant 2981",
+        "zip_code": "94105",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "151"
+    },
+    {
+        "name": "Restaurant 6371",
+        "zip_code": "94105",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "152"
+    },
+    {
+        "name": "Restaurant 6906",
+        "zip_code": "75201",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.1,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "153"
+    },
+    {
+        "name": "Restaurant 6584",
+        "zip_code": "75201",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "154"
+    },
+    {
+        "name": "Restaurant 2736",
+        "zip_code": "60601",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.1,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "155"
+    },
+    {
+        "name": "Restaurant 6612",
+        "zip_code": "75201",
+        "cuisine": "American",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "156"
+    },
+    {
+        "name": "Restaurant 2094",
+        "zip_code": "33130",
+        "cuisine": "American",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.9,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "157"
+    },
+    {
+        "name": "Restaurant 8371",
+        "zip_code": "75201",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "158"
+    },
+    {
+        "name": "Restaurant 4222",
+        "zip_code": "94105",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 2.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "159"
+    },
+    {
+        "name": "Restaurant 7167",
+        "zip_code": "60601",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "160"
+    },
+    {
+        "name": "Restaurant 1368",
+        "zip_code": "94105",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "161"
+    },
+    {
+        "name": "Restaurant 8909",
+        "zip_code": "60601",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "162"
+    },
+    {
+        "name": "Restaurant 9625",
+        "zip_code": "10001",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.3,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "163"
+    },
+    {
+        "name": "Restaurant 9520",
+        "zip_code": "75201",
+        "cuisine": "Japanese",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "164"
+    },
+    {
+        "name": "Restaurant 6237",
+        "zip_code": "60601",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.1,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "165"
+    },
+    {
+        "name": "Restaurant 6852",
+        "zip_code": "10001",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "166"
+    },
+    {
+        "name": "Restaurant 5863",
+        "zip_code": "10001",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "167"
+    },
+    {
+        "name": "Restaurant 5110",
+        "zip_code": "94105",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "168"
+    },
+    {
+        "name": "Restaurant 2532",
+        "zip_code": "94105",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "169"
+    },
+    {
+        "name": "Restaurant 4963",
+        "zip_code": "94105",
+        "cuisine": "Mediterranean",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.3,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "170"
+    },
+    {
+        "name": "Restaurant 5369",
+        "zip_code": "10001",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "171"
+    },
+    {
+        "name": "Restaurant 6435",
+        "zip_code": "60601",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "172"
+    },
+    {
+        "name": "Restaurant 4685",
+        "zip_code": "33130",
+        "cuisine": "Indian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "173"
+    },
+    {
+        "name": "Restaurant 2280",
+        "zip_code": "10001",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "174"
+    },
+    {
+        "name": "Restaurant 1775",
+        "zip_code": "60601",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.1,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "175"
+    },
+    {
+        "name": "Restaurant 6666",
+        "zip_code": "33130",
+        "cuisine": "Italian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "176"
+    },
+    {
+        "name": "Restaurant 6834",
+        "zip_code": "94105",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.8,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "177"
+    },
+    {
+        "name": "Restaurant 8109",
+        "zip_code": "75201",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.1,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "178"
+    },
+    {
+        "name": "Restaurant 8107",
+        "zip_code": "10001",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 3.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "179"
+    },
+    {
+        "name": "Restaurant 2541",
+        "zip_code": "10001",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "180"
+    },
+    {
+        "name": "Restaurant 6468",
+        "zip_code": "94105",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 3.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "181"
+    },
+    {
+        "name": "Restaurant 8798",
+        "zip_code": "10001",
+        "cuisine": "Italian",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "182"
+    },
+    {
+        "name": "Restaurant 3548",
+        "zip_code": "94105",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "183"
+    },
+    {
+        "name": "Restaurant 9918",
+        "zip_code": "75201",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.6,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "184"
+    },
+    {
+        "name": "Restaurant 1996",
+        "zip_code": "94105",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "185"
+    },
+    {
+        "name": "Restaurant 7785",
+        "zip_code": "75201",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.6,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "186"
+    },
+    {
+        "name": "Restaurant 3666",
+        "zip_code": "75201",
+        "cuisine": "French",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.0,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "187"
+    },
+    {
+        "name": "Restaurant 6431",
+        "zip_code": "33130",
+        "cuisine": "American",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 4.5,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "188"
+    },
+    {
+        "name": "Restaurant 3069",
+        "zip_code": "94105",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "189"
+    },
+    {
+        "name": "Restaurant 3160",
+        "zip_code": "94105",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.7,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            }
+        ],
+        "id": "190"
+    },
+    {
+        "name": "Restaurant 1789",
+        "zip_code": "75201",
+        "cuisine": "Mexican",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.4,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "191"
+    },
+    {
+        "name": "Restaurant 1998",
+        "zip_code": "75201",
+        "cuisine": "Chinese",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": false,
+        "wheelchair_accessible": false,
+        "average_rating": 3.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "192"
+    },
+    {
+        "name": "Restaurant 3946",
+        "zip_code": "33130",
+        "cuisine": "Mexican",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 4.7,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "193"
+    },
+    {
+        "name": "Restaurant 7529",
+        "zip_code": "60601",
+        "cuisine": "Indian",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "194"
+    },
+    {
+        "name": "Restaurant 6785",
+        "zip_code": "75201",
+        "cuisine": "American",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 2.9,
+        "credit_card_benefits": [
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "American Express"
+            }
+        ],
+        "id": "195"
+    },
+    {
+        "name": "Restaurant 9461",
+        "zip_code": "60601",
+        "cuisine": "American",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 2.7,
+        "credit_card_benefits": [
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "196"
+    },
+    {
+        "name": "Restaurant 6018",
+        "zip_code": "60601",
+        "cuisine": "American",
+        "veg": true,
+        "non_veg": false,
+        "kids_friendly": false,
+        "wheelchair_accessible": true,
+        "average_rating": 3.0,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "197"
+    },
+    {
+        "name": "Restaurant 7069",
+        "zip_code": "75201",
+        "cuisine": "Japanese",
+        "veg": false,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 2.8,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "American Express"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "198"
+    },
+    {
+        "name": "Restaurant 8924",
+        "zip_code": "94105",
+        "cuisine": "Chinese",
+        "veg": false,
+        "non_veg": false,
+        "kids_friendly": true,
+        "wheelchair_accessible": false,
+        "average_rating": 4.1,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            }
+        ],
+        "id": "199"
+    },
+    {
+        "name": "Restaurant 2640",
+        "zip_code": "94105",
+        "cuisine": "French",
+        "veg": true,
+        "non_veg": true,
+        "kids_friendly": true,
+        "wheelchair_accessible": true,
+        "average_rating": 4.2,
+        "credit_card_benefits": [
+            {
+                "bank": "Citi",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "Bank of America",
+                "card_type": "Visa"
+            },
+            {
+                "bank": "American Express",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Wells Fargo",
+                "card_type": "Discover"
+            },
+            {
+                "bank": "Chase",
+                "card_type": "MasterCard"
+            }
+        ],
+        "id": "200"
+    }
+]
